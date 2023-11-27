@@ -13,7 +13,7 @@ Terceira Etapa: Criar um Menu de uma página web utilizando Flexbox, e deixa o m
 Quarta Etapa: Criar uma lista de imagens Estilizando e aplicando Flexbox para deixar responsivo para qualquer tipo de tela.
 
 
-Tecnologias Utilizadas:
+## Tecnologias Utilizadas:
 
 - HTML
 - CSS
