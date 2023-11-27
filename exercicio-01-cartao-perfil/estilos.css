@@ -1,0 +1,65 @@
+/*Exercício 01- Cartão de Perfil*/
+
+body{
+    background-image: url('./imegens/bg-pattern-card.svg');
+    font-family: Kumbh Sans, sans-serif;
+    font-size: 18px;
+    max-width: 100%;
+    height: 100vh;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    
+    
+}
+
+.cartao{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #ffff;
+    border-radius: 10px;
+    width: 250px;
+    padding: 30px;
+
+}
+
+.cartao img{
+    margin-bottom: 15px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    padding: 20px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    border-top: 1px solid #a8a7a5;
+}
+
+li{
+    margin-top: 10px;
+
+}
+
+.nome .idade{
+    color: #5c5b5a
+}
+
+.cartao .cidade{
+    padding: 20px;
+    color: #a8a7a5;
+}
+
+.status-perfil{
+    color: #a8a7a5;
+}
+
+

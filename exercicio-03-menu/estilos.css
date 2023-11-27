@@ -1,0 +1,62 @@
+body{
+    font-family: 'Public Sans', sans-serif;
+    
+    
+}
+
+header .cabecalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+}
+
+.cabecalho .logo{
+    display: flex;
+    align-items: center;
+    
+}
+
+.logo img{
+    width: 45px;
+    height: 42px;
+    margin-right: 5px;
+}
+
+.logo h1{
+    font-size: 20px;
+}
+
+.menu{
+    display: flex;
+    margin-right: 30px;
+    align-items: center;
+}
+
+.menu li a{
+    font-size: 15px;
+    padding: 10px 5px;
+    transition: 0.3s ease-in-out;
+}
+
+
+.menu li a:hover{
+    background: #5BC241;
+    color: #ffffff;
+    padding: 10px;
+}
+
+a{
+    color: #000000;
+}
+
+.menu li a.botao{
+    background-color: #5BC241;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+    
+
+

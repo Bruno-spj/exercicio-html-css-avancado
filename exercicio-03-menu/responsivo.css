@@ -1,0 +1,25 @@
+@media(max-width: 728px){
+    .cabecalho {
+        flex-direction: column;
+        
+    }
+
+    .menu{
+        flex-direction: column;
+        margin-top: 50px;
+        gap: 20px;
+        
+    }
+
+    .logo{
+        align-items: center;
+        text-align: center;
+        margin-right: 50px;
+    }
+
+   
+   
+}
+
+
+

@@ -1,0 +1,41 @@
+.exposicao{
+    height: 689px;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    gap: 20px;
+    
+}
+
+.pinturas{
+    position: relative;
+  
+}
+
+.pinturas img{
+    max-width: 100%;
+    
+}
+
+.pinturas .legenda{
+    position: absolute;
+    bottom: 40px;
+    left: 20px;
+}
+
+.legenda h3{
+    font-weight: 700;
+    font-size: 30px;
+    font-family: 'Public Sans', sans-serif;
+    color: #ffffff;
+    margin-bottom: 5px;
+    
+}
+
+.legenda p{
+    font-weight: 300;
+    font-family: 'Public Sans', sans-serif;;
+    font-size: 17px;
+    color: #ffffff;
+}
+
